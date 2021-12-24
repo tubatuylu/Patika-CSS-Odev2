@@ -1,0 +1,52 @@
+.img{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.nav{
+    background-color: rgb(204, 206, 206);
+    height: 100px;
+    margin: 0 50px;
+padding: 10px;
+}
+.p{
+    padding:10px;
+    text-align:center ;
+}
+
+.box1{
+    background-color: aquamarine;
+    float: left;
+    width: 650px;
+    height:100px ;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 5px;
+    
+    }
+.box2{
+background-color: rgb(106, 214, 178);
+float: left;
+width:450px ;
+height: 100px;
+padding: 10px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.box3{
+    background-color: rgb(65, 136, 112);
+    float: left;
+    width:625px ;
+    height: 100px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    }
+
+
+.list{
+    list-style-position: inside;
+    list-style-type:none;
+}
+.clear{
+    clear: both;
+}
